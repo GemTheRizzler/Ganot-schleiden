@@ -1,0 +1,9 @@
+BatmanLogo
+
+The purpose of the code is to draw a batmanlogo using vsc python with turtle
+
+1.Ensure you have Python and installed
+2.Download turtle using this coomand in the terminal: pip install PythonTurtle
+3.Create a Python File
+4.Download Code Runner
+5.Run the Python Script
